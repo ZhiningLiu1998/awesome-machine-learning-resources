@@ -1,9 +1,8 @@
 <!-- # awesome-awesome-machine-learning -->
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-![](https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/awesome-awesome-ml/machine-learning.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/awesome-awesome-ml/machine-learning.png">
+</p>
 
 <h1 align="center"> 🔥 Awesome Awesome Machine Learning (Research) </h1>
 
@@ -21,6 +20,9 @@
   <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/graphs/traffic">
     <img src="https://visitor-badge.glitch.me/badge?page_id=ZhiningLiu1998.awesome-awesome-machine-learning&left_text=Hi!%20visitors">
   </a>
+  <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+  <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning#contributors-"><img src="https://img.shields.io/badge/all_contributors-1-orange.svg"></a>
+  <!-- ALL-CONTRIBUTORS-BADGE:END -->
   <img src="https://img.shields.io/github/license/ZhiningLiu1998/awesome-awesome-machine-learning">
 </p>
 
@@ -1172,13 +1174,13 @@ Machine Learning Practice
 
 
 
-<h2 align="center"> Acknowledgement </h2>
+<!-- <h2 align="center"> Acknowledgement </h2> -->
+## Acknowledgement ✨
 
-**Thank you for taking the time to read this far, please leave a star if you like this project! 🌟**
+- 🌟 **Thank you for taking the time to read this far, please leave a star if you like this project!** 🌟
+- 💬 **If you find any incorrect/inappropriate/outdated content, please kindly consider opening an issue/PR.** 💬
+- 💖 **We would greatly appreciate your contribution to this list!** 💖
 
-**If you find any incorrect/inappropriate/outdated content, please kindly consider opening an issue/PR. 💬**
-
-**We would greatly appreciate your contribution to this list!** 💖
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
