@@ -1,5 +1,7 @@
 <!-- # awesome-awesome-machine-learning -->
 
+![](https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/awesome-awesome-ml/machine-learning.png)
+
 <h1 align="center"> 🔥 Awesome Awesome Machine Learning (Research) </h1>
 
 <p align="center">
@@ -13,6 +15,9 @@
   <img src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-awesome-machine-learning">
   <img src="https://img.shields.io/github/forks/ZhiningLiu1998/awesome-awesome-machine-learning">
   <img src="https://img.shields.io/github/issues/ZhiningLiu1998/awesome-awesome-machine-learning">
+  <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/graphs/traffic">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=ZhiningLiu1998.awesome-awesome-machine-learning&left_text=Hi!%20visitors">
+  </a>
   <img src="https://img.shields.io/github/license/ZhiningLiu1998/awesome-awesome-machine-learning">
 </p>
 
