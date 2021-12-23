@@ -9,21 +9,26 @@
 <p align="center">
   <img src="https://awesome.re/badge.svg">
   <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning">
-    <img src="https://img.shields.io/badge/Awesome-Awesome-orange">
+    <img src="https://img.shields.io/badge/Awesome-AwesomeML-orange">
   </a>
-  <!-- <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/graphs/traffic">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=ZhiningLiu1998.awesome-awesome-machine-learning&left_text=Hi!%20visitors">
-  </a> -->
-  <img src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-awesome-machine-learning">
-  <img src="https://img.shields.io/github/forks/ZhiningLiu1998/awesome-awesome-machine-learning">
-  <img src="https://img.shields.io/github/issues/ZhiningLiu1998/awesome-awesome-machine-learning">
-  <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/graphs/traffic">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=ZhiningLiu1998.awesome-awesome-machine-learning&left_text=Hi!%20visitors">
+  <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/stargazers">
+    <img src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-awesome-machine-learning">
+  </a>
+  <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/network/members">
+    <img src="https://img.shields.io/github/forks/ZhiningLiu1998/awesome-awesome-machine-learning">
+  </a>
+  <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/issues">
+    <img src="https://img.shields.io/github/issues/ZhiningLiu1998/awesome-awesome-machine-learning">
+  </a>
+  <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/ZhiningLiu1998/awesome-awesome-machine-learning">
   </a>
   <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
   <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning#contributors-"><img src="https://img.shields.io/badge/all_contributors-1-orange.svg"></a>
   <!-- ALL-CONTRIBUTORS-BADGE:END -->
-  <img src="https://img.shields.io/github/license/ZhiningLiu1998/awesome-awesome-machine-learning">
+  <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/graphs/traffic">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=ZhiningLiu1998.awesome-awesome-machine-learning&left_text=Hi!%20visitors">
+  </a>
 </p>
 
 **A curated list of curated lists of awesome resources across various machine learning and deep learning topics.**
@@ -102,6 +107,8 @@
 - [Machine Learning Practice](#machine-learning-practice)
     - [Open-source Libraries](#open-source-libraries)
     - [Big Data Frameworks](#big-data-frameworks)
+- [Acknowledgement ✨](#acknowledgement-)
+- [Contributors ✨](#contributors-)
 
 
 
