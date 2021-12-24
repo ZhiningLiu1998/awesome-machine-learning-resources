@@ -33,7 +33,7 @@
 
 **A curated list of curated lists of awesome resources across various machine learning and deep learning topics.**
 
-**This repository aims to:**
+**With 380+ items (Dec 2021), this repository aims to:**
 - **help `beginners` understand the branches and latest developments in machine learning;**
 - **help `researchers` follow new machine learning research directions;**
 - **help `engineers` find suitable tutorials and libraries to solve practical problems.**
@@ -47,8 +47,9 @@
 <font color='red'>What's new: </font>
 </h3>
 
-- [12/2021] Add section [Interdisciplinary](#interdisciplinary-machine-learning--x) - [Software Engineering (MLonCode)](#software-engineering-mloncode).
 - [12/2021] Update section [Natural Language Processing (NLP)](#natural-language-processing-nlp) & [Fairness in AI](#fairness-in-ai).
+- [12/2021] Add section [Interdisciplinary](#interdisciplinary-machine-learning--x) - [Software Engineering (MLonCode)](#software-engineering-mloncode).
+- [12/2021] Add section [Paradigm](#machine-learning-paradigm) - [Dimensionality Reduction (Feature Selection/Extraction)](#dimensionality-reduction-feature-selectionextraction).
 - <details> <summary>More</summary>
     <LI> [12/2021] Awesome Awesome Machine Learning first commit! <br>
 </details>    
@@ -63,7 +64,9 @@
     - [Semi/Self-Supervised](#semiself-supervised)
     - [Contrastive Learning](#contrastive-learning)
     - [Representation Learning (Embedding)](#representation-learning-embedding)
+    - [Metric Learning](#metric-learning)
     - [Reinforcement Learning](#reinforcement-learning)
+    - [Bandit Learning](#bandit-learning)
     - [Transfer Learning](#transfer-learning)
     - [Meta-learning](#meta-learning)
     - [Multi-task Learning](#multi-task-learning)
@@ -78,8 +81,7 @@
     - [Federated Learning](#federated-learning)
     - [Anomaly Detection](#anomaly-detection)
     - [Clustering](#clustering)
-    - [Metric Learning](#metric-learning)
-    - [Bandit Learning](#bandit-learning)
+    - [Dimensionality Reduction (Feature Selection/Extraction)](#dimensionality-reduction-feature-selectionextraction)
 - [Machine Learning Task & Application](#machine-learning-task--application)
     - [Computer Vision (CV)](#computer-vision-cv)
     - [Natural Language Processing (NLP)](#natural-language-processing-nlp)
@@ -130,9 +132,9 @@ General Machine Learning
 ------------------------
 
 - *Practice*
-  - [**Awesome Machine Learning**](https://github.com/josephmisiti/awesome-machine-learning) ![](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social)
+  - [**[Awesome, Library] Awesome Machine Learning**](https://github.com/josephmisiti/awesome-machine-learning) ![](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social)
     - A curated list of awesome machine learning frameworks, libraries and software (by language). 
-  - [**scikit-learn**](https://github.com/scikit-learn/scikit-learn) ![](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social)
+  - [**[Library] scikit-learn**](https://github.com/scikit-learn/scikit-learn) ![](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social)
     - scikit-learn: machine learning in Python.
 
 - *Research*
@@ -214,6 +216,16 @@ Machine Learning Paradigm
   - [**Representation Learning on Heterogeneous Graph**](https://github.com/Jhy1993/Representation-Learning-on-Heterogeneous-Graph) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/Jhy1993/Representation-Learning-on-Heterogeneous-Graph?style=social)
     - Heterogeneous Graph Embedding, Heterogeneous GNNs and Applications.
 
+#### Metric Learning
+
+- *Practice*
+  - [**pytorch-metric-learning**](https://github.com/KevinMusgrave/pytorch-metric-learning) ![](https://img.shields.io/github/stars/KevinMusgrave/pytorch-metric-learning?style=social)
+      - The easiest way to use deep metric learning in your application.
+  - [**metric-learn**](https://github.com/scikit-learn-contrib/metric-learn) ![](https://img.shields.io/github/stars/scikit-learn-contrib/metric-learn?style=social)
+    - metric-learn: Metric Learning in Python.
+  - [**Deep-Metric-Learning-Baselines**](https://github.com/Confusezius/Deep-Metric-Learning-Baselines) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/Confusezius/Deep-Metric-Learning-Baselines?style=social)
+      - PyTorch Implementation for Deep Metric Learning Pipelines.
+
 #### Reinforcement Learning
 
 - *General*
@@ -257,6 +269,14 @@ Machine Learning Paradigm
       - Reinforcement Learning Methods and Tutorials.
   - [**reinforcement-learning**](https://github.com/rlcode/reinforcement-learning) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/rlcode/reinforcement-learning?style=social)
       - Minimal and Clean Reinforcement Learning Examples.
+
+#### Bandit Learning
+
+- *Practice*
+  - [**bandits**](https://github.com/bgalbraith/bandits) ![](https://img.shields.io/github/stars/bgalbraith/bandits?style=social)
+      - Python library for Multi-Armed Bandits.
+  - [**BanditLib**](https://github.com/huazhengwang/BanditLib) ![](https://img.shields.io/github/stars/huazhengwang/BanditLib?style=social)
+    - Library of contextual bandits algorithms.
 
 #### Transfer Learning
 
@@ -584,23 +604,27 @@ Machine Learning Paradigm
   - [**time-series-classification-and-clustering**](https://github.com/alexminnaar/time-series-classification-and-clustering) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/alexminnaar/time-series-classification-and-clustering?style=social)
       - Time series classification and clustering code written in Python.
 
-#### Metric Learning
+#### Dimensionality Reduction (Feature Selection/Extraction)
+
+- *General*
+  - [**[Awesome] Awesome Feature Engineering**](https://github.com/aikho/awesome-feature-engineering) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/aikho/awesome-feature-engineering?style=social)
+    - A curated list of resources dedicated to Feature Engineering Techniques for Machine Learning.
 
 - *Practice*
-  - [**pytorch-metric-learning**](https://github.com/KevinMusgrave/pytorch-metric-learning) ![](https://img.shields.io/github/stars/KevinMusgrave/pytorch-metric-learning?style=social)
-      - The easiest way to use deep metric learning in your application.
-  - [**metric-learn**](https://github.com/scikit-learn-contrib/metric-learn) ![](https://img.shields.io/github/stars/scikit-learn-contrib/metric-learn?style=social)
-    - metric-learn: Metric Learning in Python.
-  - [**Deep-Metric-Learning-Baselines**](https://github.com/Confusezius/Deep-Metric-Learning-Baselines) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/Confusezius/Deep-Metric-Learning-Baselines?style=social)
-      - PyTorch Implementation for Deep Metric Learning Pipelines.
+  - [**[Library] featuretools**](https://github.com/alteryx/featuretools) ![](https://img.shields.io/github/stars/alteryx/featuretools?style=social)
+    - An open source python library for automated feature engineering.
+  - [**[Library] feature-selector**](https://github.com/WillKoehrsen/feature-selector) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/WillKoehrsen/feature-selector?style=social)
+    - Feature Selector: Simple Feature Selection in Python.
+  - [**[Library] scikit-feature**](https://github.com/jundongl/scikit-feature) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/jundongl/scikit-feature?style=social)
+    - Open-source feature selection repository in python.
+  - [**[Tutorial] DimensionalityReduction_alo_codes (Chinese)**](https://github.com/heucoder/dimensionality_reduction_alo_codes) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/heucoder/dimensionality_reduction_alo_codes?style=social)
+    - xx特征提取/数据降维:PCA、LDA、MDS、LLE、TSNE等降维算法的python实现xxx.
+  - [**[Tutorial] feature-engineering-and-feature-selection**](https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/Yimeng-Zhang/feature-engineering-and-feature-selection?style=social)
+    - A Guide for Feature Engineering and Feature Selection, with implementations and examples in Python.
+  - [**[Tutorial] Feature-Selection-for-Machine-Learning**](https://github.com/anujdutt9/Feature-Selection-for-Machine-Learning) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/anujdutt9/Feature-Selection-for-Machine-Learning?style=social)
+    - Methods with examples for Feature Selection during Pre-processing in Machine Learning.
 
-#### Bandit Learning
 
-- *Practice*
-  - [**bandits**](https://github.com/bgalbraith/bandits) ![](https://img.shields.io/github/stars/bgalbraith/bandits?style=social)
-      - Python library for Multi-Armed Bandits.
-  - [**BanditLib**](https://github.com/huazhengwang/BanditLib) ![](https://img.shields.io/github/stars/huazhengwang/BanditLib?style=social)
-    - Library of contextual bandits algorithms.
 
 
 Machine Learning Task & Application
@@ -1216,7 +1240,8 @@ Machine Learning Practice
 
 
 <!-- 
-- [**xxxxx**](https://github.com/xxxxx) ![](https://img.shields.io/github/stars/xxxxx?style=social)
+Template
+- [**xxxxx**](xxxxx) ![](https://img.shields.io/github/stars/xxxxx?style=social)
   - xxxxx.
 -->
 
