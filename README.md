@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/awesome-awesome-ml/machine-learning.png">
 </p>
 
-<h1 align="center"> 🔥 Awesome Awesome Machine Learning (Research) </h1>
+<h1 align="center"> 🚀 Awesome Awesome Machine Learning (Research) </h1>
 
 <p align="center">
   <img src="https://awesome.re/badge.svg">
@@ -34,14 +34,26 @@
 **A curated list of curated lists of awesome resources across various machine learning and deep learning topics.**
 
 **This repository aims to:**
-- **help <u>beginners</u> understand the branches and latest developments in machine learning;**
-- **help <u>researchers</u> follow new machine learning research directions;**
-- **help <u>engineers</u> find suitable tutorials and libraries to solve practical problems.**
+- **help `beginners` understand the branches and latest developments in machine learning;**
+- **help `researchers` follow new machine learning research directions;**
+- **help `engineers` find suitable tutorials and libraries to solve practical problems.**
 
 **Note:**
-- ⭐ **Please leave a star if you like this project!** ⭐
--  **Contributing:** If you find any <u>incorrect</u> / <u>inappropriate</u> / <u>outdated</u> content, please kindly consider opening an issue or a PR. We would greatly appreciate your contribution to this list!
+- ⭐ **Please leave a <font color='orange'>STAR</font> if you like this project!** ⭐
+-  **Contributing:** If you find any <font color='red'>incorrect</font> / <font color='red'>inappropriate</font> / <font color='red'>outdated</font> content, please kindly consider opening an issue or a PR. We would greatly appreciate your contribution to this list!
 - **Mark:** ⚠️ indicates **`inactive`**, i.e., the corresponding list has stopped updating (for 12+ months), but can still be a good reference for starters. 
+
+<h3>
+<font color='red'>What's new: </font>
+</h3>
+
+- [12/2021] Add section [Interdisciplinary](#interdisciplinary-machine-learning--x) - [Software Engineering (MLonCode)](#software-engineering-mloncode).
+- [12/2021] Update section [Natural Language Processing (NLP)](#natural-language-processing-nlp) & [Fairness in AI](#fairness-in-ai).
+- <details> <summary>More</summary>
+    <LI> [12/2021] Awesome Awesome Machine Learning first commit! <br>
+</details>    
+
+
 
 
 ## Table of Contents
@@ -95,6 +107,7 @@
 - [Interdisciplinary: Machine Learning + X](#interdisciplinary-machine-learning--x)
     - [System (MLSys/SysML)](#system-mlsyssysml)
     - [Database (AIDB/ML4DB)](#database-aidbml4db)
+    - [Software Engineering (MLonCode)](#software-engineering-mloncode)
     - [Cyber Security](#cyber-security)
     - [Quantum Computing](#quantum-computing)
     - [Medical & Healthcare](#medical--healthcare)
@@ -347,6 +360,8 @@ Machine Learning Paradigm
 
 #### Adversarial Learning
 
+> **See also:** [Machine Learning Model](#machine-learning-model) -> [**Generative Model & Generative Adversarial Network (GAN)**](#generative-model--generative-adversarial-network-gan)
+
 - *General*
   - [**Really Awesome GAN**](https://github.com/nightrome/really-awesome-gan) ![](https://img.shields.io/github/stars/nightrome/really-awesome-gan?style=social)
     - A list of papers and other resources on Generative Adversarial (Neural) Networks.
@@ -430,7 +445,7 @@ Machine Learning Paradigm
 
 #### Ensemble Learning
 
-> Please refer to [**Tree-based & Ensemble Model**](#tree-based--ensemble-model) in [Machine Learning Model](#machine-learning-model) for more information.
+> **See also:** [Machine Learning Model](#machine-learning-model) -> [**Tree-based & Ensemble Model**](#tree-based--ensemble-model)
 
 - *General*
   - [**Awesome Ensemble Learning**](https://github.com/yzhao062/awesome-ensemble-learning) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/yzhao062/awesome-ensemble-learning?style=social)
@@ -677,9 +692,12 @@ Machine Learning Task & Application
     - NRE: Neural Relation Extraction.
   - [**Awesome Question Answering**](https://github.com/seriousran/awesome-qa) ![](https://img.shields.io/github/stars/seriousran/awesome-qa?style=social)
     - A curated list of the Question Answering (QA) subject.
-  - [**Must-read Papers on Textual Adversarial Attack and Defense (TAAD)**](https://github.com/thunlp/TAADpapers) ![](https://img.shields.io/github/stars/thunlp/TAADpapers?style=social)
-  - [**Must-read papers on Machine Reading Comprehension.**](https://github.com/thunlp/RCPapers) ![](https://img.shields.io/github/stars/thunlp/RCPapers?style=social)
-  - [**Must-read Papers on Legal Intelligence**](https://github.com/thunlp/LegalPapers) ![](https://img.shields.io/github/stars/thunlp/LegalPapers?style=social)
+  - [**Textual Adversarial Attack and Defense (TAAD)**](https://github.com/thunlp/TAADpapers) ![](https://img.shields.io/github/stars/thunlp/TAADpapers?style=social)
+    - Must-read Papers on Textual Adversarial Attack and Defense.
+  - [**Machine Reading Comprehension.**](https://github.com/thunlp/RCPapers) ![](https://img.shields.io/github/stars/thunlp/RCPapers?style=social)
+    - Must-read papers on Machine Reading Comprehension.
+  - [**Legal Intelligence (NLP)**](https://github.com/thunlp/LegalPapers) ![](https://img.shields.io/github/stars/thunlp/LegalPapers?style=social)
+    - Must-read Papers on Legal Intelligence.
   - [**Awesome NLP Fairness Papers**](https://github.com/uclanlp/awesome-fairness-papers) ![](https://img.shields.io/github/stars/uclanlp/awesome-fairness-papers?style=social)
     - Papers about fairness in NLP.
   - [**Awesome Financial NLP**](https://github.com/icoxfog417/awesome-financial-nlp) ![](https://img.shields.io/github/stars/icoxfog417/awesome-financial-nlp?style=social)
@@ -690,6 +708,8 @@ Machine Learning Task & Application
     - 中文医学NLP公开资源整理
   - [**NLP4Rec-Papers**](https://github.com/THUDM/NLP4Rec-Papers) ![](https://img.shields.io/github/stars/THUDM/NLP4Rec-Papers?style=social)
     - Paper Collection of NLP for Recommender System.
+  - [**DataAug4NLP**](https://github.com/styfeng/DataAug4NLP) ![](https://img.shields.io/github/stars/styfeng/DataAug4NLP?style=social)
+    - Collection of papers and resources for data augmentation for NLP.
   - [**Must-read papers on KRL/KE.**](https://github.com/thunlp/KRLPapers) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/thunlp/KRLPapers?style=social)
     - KRL: knowledge representation learning. KE: knowledge embedding.
 
@@ -712,7 +732,7 @@ Machine Learning Task & Application
 
 #### Graph Learning
 
-> Please refer to [**Graph Neural Network**](#graph-neural-network-gnn-gcn-gat-etc) in [Machine Learning Model](#machine-learning-model) for more information.
+> **See also:** [Machine Learning Model](#machine-learning-model) -> [**Graph Neural Network (GNN, GCN, GAT, etc.)**](#graph-neural-network-gnn-gcn-gat-etc)
 
 - *General*
   - [**Graph-based Deep Learning Literature**](https://github.com/naganandy/graph-based-deep-learning-literature) ![](https://img.shields.io/github/stars/naganandy/graph-based-deep-learning-literature?style=social)
@@ -903,6 +923,8 @@ Machine Learning Model
 
 #### Graph Neural Network (GNN, GCN, GAT, etc.)
 
+> **See also:** [Machine Learning Task & Application](#machine-learning-task--application) -> [**Graph Learning**](#graph-learning)
+
 - *General*
   - [**GNNPapers**](https://github.com/thunlp/GNNPapers) ![](https://img.shields.io/github/stars/thunlp/GNNPapers?style=social)
     - Must-read papers on graph neural network.
@@ -927,6 +949,8 @@ Machine Learning Model
 
 
 #### Generative Model & Generative Adversarial Network (GAN)
+
+> **See also:** [Machine Learning Paradigm](#machine-learning-paradigm) -> [**Adversarial Learning**](#adversarial-learning)
 
 - *General*
   - [**really-awesome-gan**](https://github.com/nightrome/really-awesome-gan) ![](https://img.shields.io/github/stars/nightrome/really-awesome-gan?style=social)
@@ -958,7 +982,7 @@ Machine Learning Model
 
 #### Variational Autoencoder
 
-> Please refer to [**Representation Learning**](#representation-learning) in [Machine Learning Paradigm](#machine-learning-paradigm) for more information.
+> **See also:** [Machine Learning Paradigm](#machine-learning-paradigm) -> [**Representation Learning**](#representation-learning)
 
 - [**Awesome-VAEs**](https://github.com/matthewvowels1/Awesome-VAEs) ![](https://img.shields.io/github/stars/matthewvowels1/Awesome-VAEs?style=social)
   - Awesome work on the VAE, disentanglement, representation learning, and generative models.
@@ -967,7 +991,7 @@ Machine Learning Model
 
 #### Tree-based & Ensemble Model
 
-> Please refer to [**Ensemble Learning**](#ensemble-learning) in [Machine Learning Paradigm](#machine-learning-paradigm) for more information.
+> **See also:** [Machine Learning Paradigm](#machine-learning-paradigm) -> [**Ensemble Learning**](#ensemble-learning)
 
 - *General*
   - [**Awesome Decision Tree Research Papers**](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) ![](https://img.shields.io/github/stars/benedekrozemberczki/awesome-decision-tree-papers?style=social)
@@ -1032,11 +1056,15 @@ Machine Learning Interpretability & Fairness & Ethics
   - [**Awesome Fairness in AI**](https://github.com/datamllab/awesome-fairness-in-ai) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/datamllab/awesome-fairness-in-ai?style=social)
     - A curated, but probably biased and incomplete, list of awesome Fairness in AI resources.
 
+- *Sub-topics*
+  - [**Awesome NLP Fairness Papers**](https://github.com/uclanlp/awesome-fairness-papers) ![](https://img.shields.io/github/stars/uclanlp/awesome-fairness-papers?style=social)
+    - Papers about fairness in NLP.
+
 - *Practice*
-  - [**ml-fairness-gym**](https://github.com/google/ml-fairness-gym) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/google/ml-fairness-gym?style=social)
-    - A set of components for building simple simulations that explore the potential long-run impacts of deploying machine learning-based decision systems in social environments.
   - [**fairness_tutorial**](https://github.com/dssg/fairness_tutorial) ![](https://img.shields.io/github/stars/dssg/fairness_tutorial?style=social)
     - Dealing with Bias and Fairness in Data Science Systems: A Practical Hands-on Tutorial.
+  - [**ml-fairness-gym**](https://github.com/google/ml-fairness-gym) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/google/ml-fairness-gym?style=social)
+    - A set of components for building simple simulations that explore the potential long-run impacts of deploying machine learning-based decision systems in social environments.
 
 #### Ethics in AI
 
@@ -1072,6 +1100,13 @@ Interdisciplinary: Machine Learning + X
 
 - [**ML4DB-paper-list (English&Chinese)**](https://github.com/LumingSun/ML4DB-paper-list) ![](https://img.shields.io/github/stars/LumingSun/ML4DB-paper-list?style=social)
   - [Paper List] AIDB / ML4DB / Autonomous Database / 智能数据库 / Self-driving Database
+
+#### Software Engineering (MLonCode)
+
+- [**Machine Learning on Source Code (Website)**](https://ml4code.github.io/) ![](https://img.shields.io/github/stars/ml4code/ml4code.github.io?style=social)
+  - Research on machine learning for source code.
+- [**awesome-machine-learning-on-source-code**](https://github.com/src-d/awesome-machine-learning-on-source-code) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/src-d/awesome-machine-learning-on-source-code?style=social)
+  - Cool links & research papers related to Machine Learning applied to source code (MLonCode).
 
 #### Cyber Security
 
@@ -1180,11 +1215,16 @@ Machine Learning Practice
     - A curated list of awesome big data frameworks, resources and other awesomeness.
 
 
+<!-- 
+- [**xxxxx**](https://github.com/xxxxx) ![](https://img.shields.io/github/stars/xxxxx?style=social)
+  - xxxxx.
+-->
+
 
 <!-- <h2 align="center"> Acknowledgement </h2> -->
 ## Acknowledgement ✨
 
-- 🌟 **Thank you for taking the time to read this far, please leave a star if you like this project!** 🌟
+- 🌟 **Thank you for taking the time to read this far, please leave a <font color='orange'>STAR</font> if you like this project!** 🌟
 - 💬 **If you find any incorrect/inappropriate/outdated content, please kindly consider opening an issue/PR.** 💬
 - 💖 **We would greatly appreciate your contribution to this list!** 💖
 
