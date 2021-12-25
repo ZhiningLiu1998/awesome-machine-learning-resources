@@ -44,7 +44,7 @@
 
 **提醒：**
 - ⭐ **如果此项目对您有帮助，请点一个STAR~** ⭐
--  **贡献：** 如果您发现有任何不正确的、不合适的、过时的内容，请考虑open issue/PR。您的贡献将被记录在[Contributors✨](#contributors-)一节中！
+-  **贡献：** 如果您发现有任何不正确的、不合适的、过时的内容，请考虑open issue/PR。您的贡献将被记录在[贡献者](#贡献者-)一节中！
 - **符号：**⚠️表示**`inactive`**，即该列表已经停止更新（超过12个月），但仍可作为初学者不错的参考资料。
 
 **最近更新：**
@@ -376,7 +376,7 @@
 
 #### 对抗学习 | Adversarial Learning
 
-> **See also:** [Machine Learning Model](#machine-learning-model) -> [**Generative Model & Generative Adversarial Network (GAN)**](#generative-model--generative-adversarial-network-gan)
+> **也请参考：** [机器学习模型](#机器学习模型) -> [生成模型 & 对抗生成网络 | Generative Model & Generative Adversarial Network (GAN)](#生成模型--对抗生成网络--generative-model--generative-adversarial-network-gan)
 
 - 综合
   - [**[List] Awesome Adversarial Machine Learning**](https://github.com/yenchenlin/awesome-adversarial-machine-learning) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/yenchenlin/awesome-adversarial-machine-learning?style=social)
@@ -457,7 +457,7 @@
 
 #### 集成学习 | Ensemble Learning
 
-> **See also:** [Machine Learning Model](#machine-learning-model) -> [**Tree-based & Ensemble Model**](#tree-based--ensemble-model)
+> **也请参考：** [机器学习模型](#机器学习模型) -> [树模型 & 集成模型 | Tree-based & Ensemble Model](#树模型--集成模型--tree-based--ensemble-model)
 
 - 综合
   - [**[List] Awesome Ensemble Learning**](https://github.com/yzhao062/awesome-ensemble-learning) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/yzhao062/awesome-ensemble-learning?style=social)
@@ -750,7 +750,7 @@
 
 #### 图学习 | Graph Learning
 
-> **See also:** [Machine Learning Model](#machine-learning-model) -> [**Graph Neural Network (GNN, GCN, GAT, etc.)**](#graph-neural-network-gnn-gcn-gat-etc)
+> **也请参考：** [机器学习模型](#机器学习模型) -> [图神经网络 | Graph Neural Network (GNN, GCN, GAT, etc.)](#图神经网络--graph-neural-network-gnn-gcn-gat-etc)
 
 - 综合
   - [**[List] Graph-based Deep Learning Literature**](https://github.com/naganandy/graph-based-deep-learning-literature) ![](https://img.shields.io/github/stars/naganandy/graph-based-deep-learning-literature?style=social)
@@ -929,24 +929,23 @@
 
 #### 卷积神经网络 | Convolutional Neural Network (CNN)
 
-> **Note:** This is a big topic and almost all existing lists are outdated. Please refer to [**Computer Vision (CV)**](#computer-vision-cv) in [Machine Learning Task & Application](#machine-learning-task--application) for more recent information.
+> **注意:** 这是一个很大的主题，且几乎所有的列表都已长期无人维护了。 请参考 [机器学习任务 & 应用](#机器学习任务--应用) 中的 [计算机视觉 | Computer Vision (CV)](#计算机视觉--computer-vision-cv) 一节了解最新的相关研究。
 
 - [**[Benchmark] convnet-benchmarks**](https://github.com/soumith/convnet-benchmarks) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/soumith/convnet-benchmarks?style=social)
   - Easy benchmarking of public open-source implementations of convnets.
 - [**[Benchmark] cnn-benchmarks**](https://github.com/jcjohnson/cnn-benchmarks) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/jcjohnson/cnn-benchmarks?style=social)
   - Benchmarks for popular convolutional neural network models on CPU and different GPUs, with and without cuDNN.
 
-
 #### 循环神经网络 | Recurrent Neural Network (RNN, LSTM, GRU, etc.)
 
-> **Note:** This is a big topic and almost all existing lists are outdated. Please refer to [**Time-series/Stream Learning**](#time-seriesstream-learning) in [Machine Learning Task & Application](#machine-learning-task--application) for more recent information.
+> **注意:** 这是一个很大的主题，且几乎所有的列表都已长期无人维护了。 请参考 [机器学习任务 & 应用](#机器学习任务--应用) 中的 [时间序列/流学习 | Time-series/Stream Learning](#时间序列流学习--time-seriesstream-learning) 一节了解最新的相关研究。
 
 - [**[List] Awesome Recurrent Neural Networks**](https://github.com/kjw0612/awesome-rnn) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/kjw0612/awesome-rnn?style=social)
   - A curated list of resources dedicated to recurrent neural networks (closely related to deep learning).
 
 #### 图神经网络 | Graph Neural Network (GNN, GCN, GAT, etc.)
 
-> **See also:** [Machine Learning Task & Application](#machine-learning-task--application) -> [**Graph Learning**](#graph-learning)
+> **也请参考：** [机器学习任务 & 应用](#机器学习任务--应用) -> [图学习 | Graph Learning](#图学习--graph-learning)
 
 - 综合
   - [**[List] GNNPapers**](https://github.com/thunlp/GNNPapers) ![](https://img.shields.io/github/stars/thunlp/GNNPapers?style=social)
@@ -974,7 +973,7 @@
 
 #### 生成模型 & 对抗生成网络 | Generative Model & Generative Adversarial Network (GAN)
 
-> **See also:** [Machine Learning Paradigm](#machine-learning-paradigm) -> [**Adversarial Learning**](#adversarial-learning)
+> **也请参考：** [机器学习范式](#机器学习范式) -> [对抗学习 | Adversarial Learning](#对抗学习--adversarial-learning)
 
 - 综合
   - [**[List] really-awesome-gan**](https://github.com/nightrome/really-awesome-gan) ![](https://img.shields.io/github/stars/nightrome/really-awesome-gan?style=social)
@@ -1006,7 +1005,7 @@
 
 #### 变分自编码器 | Variational Autoencoder
 
-> **See also:** [Machine Learning Paradigm](#machine-learning-paradigm) -> [**Representation Learning**](#representation-learning)
+> **也请参考：** [机器学习范式](#机器学习范式) -> [表示学习 | Representation Learning (Embedding)](#表示学习--representation-learning-embedding)
 
 - [**[List] Awesome-VAEs**](https://github.com/matthewvowels1/Awesome-VAEs) ![](https://img.shields.io/github/stars/matthewvowels1/Awesome-VAEs?style=social)
   - Awesome work on the VAE, disentanglement, representation learning, and generative models.
@@ -1015,7 +1014,7 @@
 
 #### 树模型 & 集成模型 | Tree-based & Ensemble Model
 
-> **See also:** [Machine Learning Paradigm](#machine-learning-paradigm) -> [**Ensemble Learning**](#ensemble-learning)
+> **也请参考：** [机器学习范式](#机器学习范式) -> [集成学习 | Ensemble Learning](#集成学习--ensemble-learning)
 
 - 综合
   - [**[List] Awesome Decision Tree Research Papers**](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) ![](https://img.shields.io/github/stars/benedekrozemberczki/awesome-decision-tree-papers?style=social)
