@@ -31,6 +31,10 @@
   </a>
 </p>
 
+<p align="center"><b>
+  语言: [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning">English</a>] [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/main/README_CN.md">中文</a>]
+</b></p>
+
 **机器学习/深度学习一切主题 (学习范式/任务/应用/模型/道德/交叉学科/数据集/框架/教程) 的资源列表汇总。**
 
 **此列表包含380+条目（2021年12月），这个项目的愿景是：**

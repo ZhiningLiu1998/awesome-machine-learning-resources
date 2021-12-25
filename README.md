@@ -31,6 +31,11 @@
   </a>
 </p>
 
+<p align="center"><b>
+  Language: [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning">English</a>] [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/main/README_CN.md">中文</a>]
+</b></p>
+
+
 **A curated list of curated lists of awesome resources across various machine learning and deep learning topics.**
 
 **With 380+ items (Dec 2021), this repository aims to:**
@@ -61,17 +66,16 @@
 - [Table of Contents](#table-of-contents)
 - [General Machine Learning](#general-machine-learning)
 - [Machine Learning Paradigm](#machine-learning-paradigm)
-    - [Semi/Self-Supervised](#semiself-supervised)
+    - [Semi/Self-Supervised Learning](#semiself-supervised-learning)
     - [Contrastive Learning](#contrastive-learning)
     - [Representation Learning (Embedding)](#representation-learning-embedding)
     - [Metric Learning](#metric-learning)
     - [Reinforcement Learning](#reinforcement-learning)
-    - [Bandit Learning](#bandit-learning)
     - [Transfer Learning](#transfer-learning)
     - [Meta-learning](#meta-learning)
     - [Multi-task Learning](#multi-task-learning)
     - [Imbalanced/Long-tail Learning](#imbalancedlong-tail-learning)
-    - [Few-shot/Zero-shot Learning](#few-shotzero-shot-learning)
+    - [Few-shot Learning](#few-shot-learning)
     - [Adversarial Learning](#adversarial-learning)
     - [Robust Learning](#robust-learning)
     - [Active Learning](#active-learning)
@@ -90,6 +94,7 @@
     - [Knowledge Graph](#knowledge-graph)
     - [Time-series/Stream Learning](#time-seriesstream-learning)
     - [Recommender Systems](#recommender-systems)
+    - [Information Retrieval](#information-retrieval)
     - [Gaming & Searching](#gaming--searching)
 - [Machine Learning Model](#machine-learning-model)
     - [Pretrained & Foundation Model](#pretrained--foundation-model)
@@ -119,7 +124,7 @@
     - [Business](#business)
     - [Law](#law)
 - [Machine Learning Datasets](#machine-learning-datasets)
-- [Machine Learning Practice](#machine-learning-practice)
+- [Production Machine Learning](#production-machine-learning)
     - [Open-source Libraries](#open-source-libraries)
     - [Big Data Frameworks](#big-data-frameworks)
 - [Acknowledgement ✨](#acknowledgement-)
@@ -148,7 +153,7 @@ General Machine Learning
 Machine Learning Paradigm
 --------------------------------
 
-#### Semi/Self-Supervised
+#### Semi/Self-Supervised Learning
 
 - *General*
   - [**[List] Awesome Semi-Supervised Learning**](https://github.com/yassouali/awesome-semi-supervised-learning) ![](https://img.shields.io/github/stars/yassouali/awesome-semi-supervised-learning?style=social)
@@ -263,6 +268,10 @@ Machine Learning Paradigm
       - Reinforcement learning framework and algorithms implemented in PyTorch.
   - [**[Library] MARO**](https://github.com/microsoft/maro) ![](https://img.shields.io/github/stars/microsoft/maro?style=social)
       - Multi-Agent Resource Optimization (MARO) platform is an instance of Reinforcement Learning as a Service (RaaS) for real-world resource optimization problems.
+  - [**[Library] bandits**](https://github.com/bgalbraith/bandits) ![](https://img.shields.io/github/stars/bgalbraith/bandits?style=social)
+      - Python library for Multi-Armed Bandits.
+  - [**[Library] BanditLib**](https://github.com/huazhengwang/BanditLib) ![](https://img.shields.io/github/stars/huazhengwang/BanditLib?style=social)
+    - Library of contextual bandits algorithms.
   - [**[Tutorial] reinforcement-learning-an-introduction**](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ![](https://img.shields.io/github/stars/ShangtongZhang/reinforcement-learning-an-introduction?style=social)
       - Python replication for Sutton & Barto's book Reinforcement Learning: An Introduction (2nd Edition).
   - [**[Code Collection] reinforcement-learning**](https://github.com/dennybritz/reinforcement-learning) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/dennybritz/reinforcement-learning?style=social)
@@ -271,14 +280,6 @@ Machine Learning Paradigm
       - Reinforcement Learning Methods and Tutorials.
   - [**[Code Collection] reinforcement-learning**](https://github.com/rlcode/reinforcement-learning) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/rlcode/reinforcement-learning?style=social)
       - Minimal and Clean Reinforcement Learning Examples.
-
-#### Bandit Learning
-
-- *Practice*
-  - [**[Library] bandits**](https://github.com/bgalbraith/bandits) ![](https://img.shields.io/github/stars/bgalbraith/bandits?style=social)
-      - Python library for Multi-Armed Bandits.
-  - [**[Library] BanditLib**](https://github.com/huazhengwang/BanditLib) ![](https://img.shields.io/github/stars/huazhengwang/BanditLib?style=social)
-    - Library of contextual bandits algorithms.
 
 #### Transfer Learning
 
@@ -360,7 +361,7 @@ Machine Learning Paradigm
   - [**[Library] imbalanced-ensemble (English&Chinese)**](https://github.com/ZhiningLiu1998/imbalanced-ensemble) ![](https://img.shields.io/github/stars/ZhiningLiu1998/imbalanced-ensemble?style=social)
       - 类别不平衡/长尾机器学习 | Class-imbalanced/Long-tailed ensemble learning in Python
 
-#### Few-shot/Zero-shot Learning
+#### Few-shot Learning
 
 - *General*
   - [**[List] Awesome Papers Few shot**](https://github.com/Duan-JM/awesome-papers-fewshot) ![](https://img.shields.io/github/stars/Duan-JM/awesome-papers-fewshot?style=social)
@@ -863,6 +864,10 @@ Machine Learning Task & Application
   - [**[List] Awesome-GNN-Recommendation**](https://github.com/Jhy1993/Awesome-GNN-Recommendation) ![](https://img.shields.io/github/stars/Jhy1993/Awesome-GNN-Recommendation?style=social)
     - GNN in Recommendation.
 
+#### Information Retrieval
+
+- [**[List] Awesome Information Retrieval**](https://github.com/harpribot/awesome-information-retrieval) ![](https://img.shields.io/github/stars/harpribot/awesome-information-retrieval?style=social)
+  - Curated list of information retrieval and web search resources from all around the web.
 
 #### Gaming & Searching
 
@@ -1229,8 +1234,8 @@ Machine Learning Datasets
 
 
 
-Machine Learning Practice
--------------------------
+Production Machine Learning
+---------------------------
 
 #### Open-source Libraries
 
