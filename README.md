@@ -115,7 +115,7 @@
     - [Medical & Healthcare](#medical--healthcare)
     - [Bioinformatics](#bioinformatics)
     - [Biology & Chemistry](#biology--chemistry)
-    - [Finance](#finance)
+    - [Finance & Trading](#finance--trading)
     - [Business](#business)
     - [Law](#law)
 - [Machine Learning Datasets](#machine-learning-datasets)
@@ -261,6 +261,8 @@ Machine Learning Paradigm
       - Reinforcement Learning in PyTorch.
   - [**[Library] rlkit**](https://github.com/rail-berkeley/rlkit) ![](https://img.shields.io/github/stars/rail-berkeley/rlkit?style=social)
       - Reinforcement learning framework and algorithms implemented in PyTorch.
+  - [**[Library] MARO**](https://github.com/microsoft/maro) ![](https://img.shields.io/github/stars/microsoft/maro?style=social)
+      - Multi-Agent Resource Optimization (MARO) platform is an instance of Reinforcement Learning as a Service (RaaS) for real-world resource optimization problems.
   - [**[Tutorial] reinforcement-learning-an-introduction**](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ![](https://img.shields.io/github/stars/ShangtongZhang/reinforcement-learning-an-introduction?style=social)
       - Python replication for Sutton & Barto's book Reinforcement Learning: An Introduction (2nd Edition).
   - [**[Code Collection] reinforcement-learning**](https://github.com/dennybritz/reinforcement-learning) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/dennybritz/reinforcement-learning?style=social)
@@ -838,6 +840,8 @@ Machine Learning Task & Application
     - Python libraries, datasets, frameworks for time series processing.
   - [**[Datasets] Awesome time series database**](https://github.com/xephonhq/awesome-time-series-database) ![](https://img.shields.io/github/stars/xephonhq/awesome-time-series-database?style=social)
     - A curated list of time series databases. 
+  - [**[Library] FOST**](https://github.com/microsoft/FOST) ![](https://img.shields.io/github/stars/microsoft/FOST?style=social)
+    - An easy-use tool for temporal, spatial-temporal and hierarchical forecasting.
 
 #### Recommender Systems
 
@@ -1086,10 +1090,15 @@ Machine Learning Interpretability & Fairness & Ethics
 
 #### Ethics in AI
 
-- [**[List] criticalML**](https://github.com/rockita/criticalML) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/rockita/criticalML?style=social)
-  - Toward ethical, transparent and fair AI/ML: a critical reading list for engineers, designers, and policy makers.
-- [**[List] Machine Learning Ethics References**](https://github.com/radames/Machine-Learning-Ethics-References) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/radames/Machine-Learning-Ethics-References?style=social)
-  - References about Machine Learning and Data Science discrimination, bias, ethics.
+- *General*
+  - [**[List] criticalML**](https://github.com/rockita/criticalML) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/rockita/criticalML?style=social)
+    - Toward ethical, transparent and fair AI/ML: a critical reading list for engineers, designers, and policy makers.
+  - [**[List] Machine Learning Ethics References**](https://github.com/radames/Machine-Learning-Ethics-References) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/radames/Machine-Learning-Ethics-References?style=social)
+    - References about Machine Learning and Data Science discrimination, bias, ethics.
+
+- *Sub-topics*
+  - [**[List] Awesome-Privacy**](https://github.com/Guyanqi/Awesome-Privacy) **![](https://img.shields.io/github/stars/Guyanqi/Awesome-Privacy?style=social)
+    - Toward ethical, transparent and fair AI/ML: a critical reading list for engineers, designers, and policy makers.
 
 
 
@@ -1173,8 +1182,10 @@ Interdisciplinary: Machine Learning + X
 - [**[List] Awesome DeepBio**](https://github.com/gokceneraslan/awesome-deepbio) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/gokceneraslan/awesome-deepbio?style=social)
   - A curated list of awesome deep learning applications in the field of computational biology
 
-#### Finance
+#### Finance & Trading
 
+- [**[Library] Qlib**](https://github.com/microsoft/qlib) ![](https://img.shields.io/github/stars/microsoft/qlib?style=social)
+  - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment.
 - [**[List, Practice] financial-machine-learning**](https://github.com/firmai/financial-machine-learning) ![](https://img.shields.io/github/stars/firmai/financial-machine-learning?style=social)
   - A curated list of practical financial machine learning (FinML) tools and applications.
 - [**[List] Awesome AI in Finance**](https://github.com/georgezouq/awesome-ai-in-finance) ![](https://img.shields.io/github/stars/georgezouq/awesome-ai-in-finance?style=social)
