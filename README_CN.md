@@ -31,9 +31,9 @@
   </a>
 </p>
 
-<p align="center"><b>
-  语言: [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning">English</a>] [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/main/README_CN.md">中文</a>]
-</b></p>
+<h3 align="center"><b>
+  语言: [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning">English</a>] [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/main/README_CN.md">Chinese/中文</a>]
+</b></h3>
 
 **机器学习/深度学习一切主题 (学习范式/任务/应用/模型/道德/交叉学科/数据集/框架/教程) 的资源列表汇总。**
 
@@ -54,8 +54,34 @@
 - [12/2021] Add section [Paradigm](#machine-learning-paradigm) - [Dimensionality Reduction (Feature Selection/Extraction)](#dimensionality-reduction-feature-selectionextraction).
 - <details> <summary>More</summary>
     <LI> [12/2021] Awesome Awesome Machine Learning first commit!<br>
-</details>    
+</details>
 
+**查看 [我](https://github.com/ZhiningLiu1998) 的其他开源机器学习项目！**  
+<table style="font-size:15px;">
+  <tr>
+    <!-- <td align="center"><a href="http://zhiningliu.com"><img src="https://avatars.githubusercontent.com/u/26108487?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zhining Liu</b></sub></a></td> -->
+    <td align="center"><a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble"><img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/thumbnails/imbens-thumb.png" height="80px" alt=""/><br /><sub><b>Imbalanced-Ensemble [PythonLib]</b></sub></a><br />
+      <a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble/stargazers">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/imbalanced-ensemble?style=social">
+      </a>
+    </td>
+    <td align="center"><a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning"><img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/thumbnails/awesomeil-thumb.png" height="80px" alt=""/><br /><sub><b>Imbalanced Learning [Awesome]</b></sub></a><br />
+      <a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning/stargazers">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-imbalanced-learning?style=social">
+      </a>
+    </td>
+    <td align="center"><a href="https://github.com/ZhiningLiu1998/self-paced-ensemble"><img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/thumbnails/spe-thumb-1.png" height="80px" alt=""/><br /><sub><b>Self-paced Ensemble [ICDE]</b></sub></a><br />
+      <a href="https://github.com/ZhiningLiu1998/self-paced-ensemble/stargazers">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/self-paced-ensemble?style=social">
+      </a>
+    </td>
+    <td align="center"><a href="https://github.com/ZhiningLiu1998/mesa"><img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/thumbnails/mesa-thumb.png" height="80px" alt=""/><br /><sub><b>Meta-Sampler [NeurIPS]</b></sub></a><br />
+      <a href="https://github.com/ZhiningLiu1998/mesa/stargazers">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/mesa?style=social">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -343,7 +369,7 @@
     - Everything about imbalanced (long-tail) learning. Frameworks and libraries (grouped by programming language), research papers (grouped by research field), imbalanced datasets, algorithms, utilities, Jupyter Notebooks, and Talks.
   - [**[List] Awesome Long-Tailed Learning**](https://github.com/Stomach-ache/awesome-long-tailed-learning) ![](https://img.shields.io/github/stars/Stomach-ache/awesome-long-tailed-learning?style=social)
     - Related papers are sumarized, including its application in computer vision, in particular image classification, and extreme multi-label learning (XML), in particular text categorization.
-  - [**[List] Awesome Long-Tailed Learning***](https://github.com/Vanint/Awesome-LongTailed-Learning) ![](https://img.shields.io/github/stars/Vanint/Awesome-LongTailed-Learning?style=social)
+  - [**[List] Awesome Long-Tailed Learning\***](https://github.com/Vanint/Awesome-LongTailed-Learning) ![](https://img.shields.io/github/stars/Vanint/Awesome-LongTailed-Learning?style=social)
     - A curated list of awesome deep long-tailed learning resources. 
 
 - 子主题
@@ -416,9 +442,9 @@
 - 综合
   - [**[List] Awesome Active Learning**](https://github.com/SupeRuier/awesome-active-learning) ![](https://img.shields.io/github/stars/SupeRuier/awesome-active-learning?style=social)
     - Previous works of active learning were categorized.
-  - [**[List] Awesome Active Learning***](https://github.com/baifanxxx/awesome-active-learning) ![](https://img.shields.io/github/stars/baifanxxx/awesome-active-learning?style=social)
+  - [**[List] Awesome Active Learning\***](https://github.com/baifanxxx/awesome-active-learning) ![](https://img.shields.io/github/stars/baifanxxx/awesome-active-learning?style=social)
     - A curated list of awesome Active Learning.
-  - [**[List] Awesome Active Learning****](https://github.com/yongjin-shin/awesome-active-learning) ![](https://img.shields.io/github/stars/yongjin-shin/awesome-active-learning?style=social)
+  - [**[List] Awesome Active Learning\*\***](https://github.com/yongjin-shin/awesome-active-learning) ![](https://img.shields.io/github/stars/yongjin-shin/awesome-active-learning?style=social)
     - A list of resources related to Active learning in machine learning.
 
 - 实践
@@ -523,7 +549,7 @@
 - 综合
   - [**[List] Awesome Federated Learning**](https://github.com/chaoyanghe/Awesome-Federated-Learning) ![](https://img.shields.io/github/stars/chaoyanghe/Awesome-Federated-Learning?style=social)
     - A curated list of federated learning publications, re-organized from Arxiv (mostly).
-  - [**[List] Awesome Federated Learning***](https://github.com/poga/awesome-federated-learning) ![](https://img.shields.io/github/stars/poga/awesome-federated-learning?style=social)
+  - [**[List] Awesome Federated Learning\***](https://github.com/poga/awesome-federated-learning) ![](https://img.shields.io/github/stars/poga/awesome-federated-learning?style=social)
     - A list of resources releated to federated learning and privacy in machine learning.
   - [**[List] Awesome Federated Learning**](https://github.com/weimingwill/awesome-federated-learning) ![](https://img.shields.io/github/stars/weimingwill/awesome-federated-learning?style=social)
     - A curated list of research in federated learning.
@@ -553,7 +579,7 @@
     - Books & Academic Papers & Online Courses and Videos & Outlier Datasets & Open-source and Commercial Libraries & Toolkits & Key Conferences & Journals.
   - [**[List] Awesome Anomaly Detection**](https://github.com/hoya012/awesome-anomaly-detection) ![](https://img.shields.io/github/stars/hoya012/awesome-anomaly-detection?style=social)
     - A curated list of awesome anomaly detection resources.
-  - [**[List] Awesome Anomaly Detection***](https://github.com/zhuyiche/awesome-anomaly-detection) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/zhuyiche/awesome-anomaly-detection?style=social)
+  - [**[List] Awesome Anomaly Detection\***](https://github.com/zhuyiche/awesome-anomaly-detection) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/zhuyiche/awesome-anomaly-detection?style=social)
     - A list of Papers on anomaly detection.
 
 - 子主题
@@ -625,7 +651,7 @@
 #### 计算机视觉 | Computer Vision (CV)
 
 - 综合
-  - [*[List] *Awesome Computer Vision**](https://github.com/jbhuang0604/awesome-computer-vision) ![](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision?style=social)
+  - [**[List] Awesome Computer Vision**](https://github.com/jbhuang0604/awesome-computer-vision) ![](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision?style=social)
     - A curated list of awesome computer vision resources.
   - [**[List] Awesome Visual-Transformer**](https://github.com/dk-liang/Awesome-Visual-Transformer) ![](https://img.shields.io/github/stars/dk-liang/Awesome-Visual-Transformer?style=social)
     - Collect some Transformer with Computer-Vision (CV) papers.
