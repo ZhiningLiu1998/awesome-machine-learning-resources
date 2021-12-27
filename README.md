@@ -32,7 +32,9 @@
 </p>
 
 <h3 align="center"><b>
-  Language: [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning">English</a>] [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/main/README_CN.md">Chinese/中文</a>]
+  Language: 
+  [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning">English</a>] 
+  [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/main/README_CN.md">Chinese/中文</a>]
 </b></h3>
 
 
@@ -52,7 +54,9 @@
 <font color='red'>What's new: </font>
 </h3>
 
+- [12/2021] Update section [Clustering](#clustering).
 - [12/2021] Update section [Natural Language Processing (NLP)](#natural-language-processing-nlp) & [Fairness in AI](#fairness-in-ai).
+- [12/2021] [Chinese version](https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/main/README_CN.md) is now available!
 - [12/2021] Add section [Interdisciplinary](#interdisciplinary-machine-learning--x) - [Software Engineering (MLonCode)](#software-engineering-mloncode).
 - [12/2021] Add section [Paradigm](#machine-learning-paradigm) - [Dimensionality Reduction (Feature Selection/Extraction)](#dimensionality-reduction-feature-selectionextraction).
 - <details> <summary>More</summary>
@@ -614,6 +618,8 @@ Machine Learning Paradigm
     - A collection of community detection papers.
   - [**[List] Awesome Multi-view Clustering**](https://github.com/wangsiwei2010/awesome-multi-view-clustering) ![](https://img.shields.io/github/stars/wangsiwei2010/awesome-multi-view-clustering?style=social)
     - Collections for state-of-the-art (SOTA), novel multi-view clustering methods (papers, codes and datasets).
+  - [**[List] Awesome-Deep-Graph-Clustering**](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering) ![](https://img.shields.io/github/stars/yueliu1999/Awesome-Deep-Graph-Clustering?style=social)
+    - A collection of state-of-the-art (SOTA), novel deep graph clustering methods (papers, codes, and datasets).
 
 - *Practice*
   - [**[Library] faiss**](https://github.com/facebookresearch/faiss) ![](https://img.shields.io/github/stars/facebookresearch/faiss?style=social)
