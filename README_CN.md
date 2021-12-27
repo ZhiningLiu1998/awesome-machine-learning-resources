@@ -51,7 +51,7 @@
 
 - [12/2021] Update section [Clustering](#clustering).
 - [12/2021] Update section [Natural Language Processing (NLP)](#natural-language-processing-nlp) & [Fairness in AI](#fairness-in-ai).
-- [12/2021] [Chinese version](https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/main/README_CN.md) is now available!
+- [12/2021] The [Chinese version](https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/main/README_CN.md) is now available!
 - [12/2021] Add section [Interdisciplinary](#interdisciplinary-machine-learning--x) - [Software Engineering (MLonCode)](#software-engineering-mloncode).
 - [12/2021] Add section [Paradigm](#machine-learning-paradigm) - [Dimensionality Reduction (Feature Selection/Extraction)](#dimensionality-reduction-feature-selectionextraction).
 - <details> <summary>More</summary>
@@ -123,9 +123,9 @@
     - [博弈 & 搜索 | Gaming & Searching](#博弈--搜索--gaming--searching)
 - [机器学习模型](#机器学习模型)
     - [预训练 & 基础模型 | Pretrained & Foundation Model](#预训练--基础模型--pretrained--foundation-model)
-      - [in NLP (BERT, RoBERTa, GPT, etc.)](#in-nlp-bert-roberta-gpt-etc)
-      - [in CV (Visual Transformers, etc.)](#in-cv-visual-transformers-etc)
-      - [in other topics](#in-other-topics)
+      - [自然语言处理 | in NLP (BERT, RoBERTa, GPT, etc.)](#自然语言处理--in-nlp-bert-roberta-gpt-etc)
+      - [计算机视觉 | in CV (Visual Transformers, etc.)](#计算机视觉--in-cv-visual-transformers-etc)
+      - [其他主题 | in other topics](#其他主题--in-other-topics)
     - [卷积神经网络 | Convolutional Neural Network (CNN)](#卷积神经网络--convolutional-neural-network-cnn)
     - [循环神经网络 | Recurrent Neural Network (RNN, LSTM, GRU, etc.)](#循环神经网络--recurrent-neural-network-rnn-lstm-gru-etc)
     - [图神经网络 | Graph Neural Network (GNN, GCN, GAT, etc.)](#图神经网络--graph-neural-network-gnn-gcn-gat-etc)
@@ -615,6 +615,8 @@
     - A collection of community detection papers.
   - [**[List] Awesome Multi-view Clustering**](https://github.com/wangsiwei2010/awesome-multi-view-clustering) ![](https://img.shields.io/github/stars/wangsiwei2010/awesome-multi-view-clustering?style=social)
     - Collections for state-of-the-art (SOTA), novel multi-view clustering methods (papers, codes and datasets).
+  - [**[List] Awesome-Deep-Graph-Clustering**](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering) ![](https://img.shields.io/github/stars/yueliu1999/Awesome-Deep-Graph-Clustering?style=social)
+    - A collection of state-of-the-art (SOTA), novel deep graph clustering methods (papers, codes, and datasets).
 
 - 实践
   - [**[Library] faiss**](https://github.com/facebookresearch/faiss) ![](https://img.shields.io/github/stars/facebookresearch/faiss?style=social)
@@ -905,7 +907,7 @@
 
 #### 预训练 & 基础模型 | Pretrained & Foundation Model
 
-##### in NLP (BERT, RoBERTa, GPT, etc.)
+##### 自然语言处理 | in NLP (BERT, RoBERTa, GPT, etc.)
 
 - *Foundation Models*
   - [**[List] Must-Read Papers on Pre-trained Language Models (PLMs)**](https://github.com/thunlp/PLMpapers) ![](https://img.shields.io/github/stars/thunlp/PLMpapers?style=social)
@@ -927,7 +929,7 @@
   - [**[List, Model] Awesome Sentence Embedding**](https://github.com/Separius/awesome-sentence-embedding) ![](https://img.shields.io/github/stars/Separius/awesome-sentence-embedding?style=social)
     - A curated list of pretrained sentence and word embedding models.
   
-##### in CV (Visual Transformers, etc.)
+##### 计算机视觉 | in CV (Visual Transformers, etc.)
 - *Foundation Models*
   - [**[List] Awesome Visual-Transformer**](https://github.com/dk-liang/Awesome-Visual-Transformer) ![](https://img.shields.io/github/stars/dk-liang/Awesome-Visual-Transformer?style=social)
     - Collect some Transformer with Computer-Vision (CV) papers.
@@ -950,7 +952,7 @@
   - [**[Library] segmentation_models**](https://github.com/qubvel/segmentation_models) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/qubvel/segmentation_models?style=social)
     - Python library with Neural Networks for Image Segmentation based on Keras and TensorFlow.
 
-##### in other topics
+##### 其他主题 | in other topics
 
 - [**[List] awesome-pretrained-models-for-information-retrieval**](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval) ![](https://img.shields.io/github/stars/Albert-Ma/awesome-pretrained-models-for-information-retrieval?style=social)
   - Awesome papers related to pre-trained models for information retrieval (a.k.a., pretraining for IR).

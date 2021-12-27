@@ -56,7 +56,7 @@
 
 - [12/2021] Update section [Clustering](#clustering).
 - [12/2021] Update section [Natural Language Processing (NLP)](#natural-language-processing-nlp) & [Fairness in AI](#fairness-in-ai).
-- [12/2021] [Chinese version](https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/main/README_CN.md) is now available!
+- [12/2021] The [Chinese version](https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/main/README_CN.md) is now available!
 - [12/2021] Add section [Interdisciplinary](#interdisciplinary-machine-learning--x) - [Software Engineering (MLonCode)](#software-engineering-mloncode).
 - [12/2021] Add section [Paradigm](#machine-learning-paradigm) - [Dimensionality Reduction (Feature Selection/Extraction)](#dimensionality-reduction-feature-selectionextraction).
 - <details> <summary>More</summary>
