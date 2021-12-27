@@ -24,8 +24,8 @@
     <img src="https://img.shields.io/github/license/ZhiningLiu1998/awesome-awesome-machine-learning">
   </a>
   <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-  <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning#contributors-"><img src="https://img.shields.io/badge/all_contributors-1-orange.svg"></a>
-  <!-- ALL-CONTRIBUTORS-BADGE:END -->
+<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning#contributors-"><img src="https://img.shields.io/badge/all_contributors-2-orange.svg"></a>
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
   <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/graphs/traffic">
     <img src="https://visitor-badge.glitch.me/badge?page_id=ZhiningLiu1998.awesome-awesome-machine-learning&left_text=Hi!%20visitors">
   </a>
@@ -1304,6 +1304,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://zhiningliu.com"><img src="https://avatars.githubusercontent.com/u/26108487?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zhining Liu</b></sub></a><br /><a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/commits?author=ZhiningLiu1998" title="Code">💻</a> <a href="#ideas-ZhiningLiu1998" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-ZhiningLiu1998" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="http://yueliu1999.github.io"><img src="https://avatars.githubusercontent.com/u/41297969?v=4?s=100" width="100px;" alt=""/><br /><sub><b>yueliu1999</b></sub></a><br /><a href="#content-yueliu1999" title="Content">🖋</a></td>
   </tr>
 </table>
 
