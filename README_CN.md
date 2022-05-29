@@ -49,7 +49,8 @@
 
 **最近更新：**
 
-- [12/2021] Update section [Clustering](#clustering).
+- [04/2022] Update section [Graph Learning](#图学习--graph-learning).
+- [12/2021] Update section [Clustering](#聚类--clustering).
 - [12/2021] Update section [Natural Language Processing (NLP)](#natural-language-processing-nlp) & [Fairness in AI](#fairness-in-ai).
 - [12/2021] The [Chinese version](https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/main/README_CN.md) is now available!
 - [12/2021] Add section [Interdisciplinary](#interdisciplinary-machine-learning--x) - [Software Engineering (MLonCode)](#software-engineering-mloncode).
@@ -813,6 +814,8 @@
     - An index of recommendation algorithms that are based on Graph Neural Networks.
   - [**[List] Awesome-GNN-Recommendation**](https://github.com/Jhy1993/Awesome-GNN-Recommendation) ![](https://img.shields.io/github/stars/Jhy1993/Awesome-GNN-Recommendation?style=social)
     - GNN in Recommendation.
+  - [**[List] Awesome GNNs on Large-scale Graphs**](https://github.com/Oceanusity/awesome-gnns-on-large-scale-graphs) ![](https://img.shields.io/github/stars/Oceanusity/awesome-gnns-on-large-scale-graphs?style=social)
+    - Large-scale Graph Datasets/Networks.
   - [**[List] Must-read papers on NRL/NE.**](https://github.com/thunlp/NRLPapers) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/thunlp/NRLPapers?style=social)
     - NRL: network representation learning. NE: network embedding.
   - [**[List] Representation Learning on Heterogeneous Graph**](https://github.com/Jhy1993/Representation-Learning-on-Heterogeneous-Graph) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/Jhy1993/Representation-Learning-on-Heterogeneous-Graph?style=social)
@@ -996,6 +999,8 @@
     - This is the repository for the collection of Graph Neural Network for Traffic Forecasting.
   - [**[List] GNN based Recommender Systems**](https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems) ![](https://img.shields.io/github/stars/tsinghua-fib-lab/GNN-Recommender-Systems?style=social)
     - An index of recommendation algorithms that are based on Graph Neural Networks.
+  - [**[List] Awesome GNNs on Large-scale Graphs**](https://github.com/Oceanusity/awesome-gnns-on-large-scale-graphs) ![](https://img.shields.io/github/stars/Oceanusity/awesome-gnns-on-large-scale-graphs?style=social)
+    - Large-scale Graph Datasets/Networks.
 
 - 实践
   - [**[Tutorial] GNN-algorithms (Chinese)**](https://github.com/wangyouze/GNN-algorithms) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/wangyouze/GNN-algorithms?style=social)
