@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/awesome-awesome-ml/machine-learning.png">
 </p>
 
-<h1 align="center"> 🚀 Awesome Awesome Machine Learning (Research) </h1>
+<h1 align="center"> 🚀 Awesome Machine Learning Resources </h1>
 
 <p align="center">
   <img src="https://awesome.re/badge.svg">

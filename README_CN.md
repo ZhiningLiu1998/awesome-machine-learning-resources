@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/awesome-awesome-ml/machine-learning.png">
 </p>
 
-<h1 align="center"> 🚀 机器学习资源列表 </h1>
+<h1 align="center"> 🚀 机器学习资源汇总 </h1>
 
 <p align="center">
   <img src="https://awesome.re/badge.svg">
