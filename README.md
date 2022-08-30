@@ -54,6 +54,7 @@
 <font color='red'>What's new: </font>
 </h3>
 
+- [08/2022] Add Graph for Traffic Benchmark in [Graph Learning](#graph-learning).
 - [04/2022] Update section [Graph Learning](#graph-learning).
 - [12/2021] Update section [Clustering](#clustering).
 - [12/2021] Update section [Natural Language Processing (NLP)](#natural-language-processing-nlp) & [Fairness in AI](#fairness-in-ai).
@@ -793,6 +794,10 @@ Machine Learning Task & Application
     - This is a paper list about deep learning for graphs.
   - [**[List] GNNPapers**](https://github.com/thunlp/GNNPapers) ![](https://img.shields.io/github/stars/thunlp/GNNPapers?style=social)
     - Must-read papers on GNN.
+
+- *Benchmarks*
+  - [**[Benchmark] Graph-Based Deep Learning Models for Urban Traffic Prediction**](https://github.com/deepkashiwa20/dl-traff-graph) ![](https://img.shields.io/github/stars/deepkashiwa20/dl-traff-graph?style=social)
+    - DL-Traff: Survey and Benchmark of Deep Learning Models for Urban Traffic Prediction
 
 - *Sub-topics*
   - [**[List] Awesome Graph Classification**](https://github.com/benedekrozemberczki/awesome-graph-classification) ![](https://img.shields.io/github/stars/benedekrozemberczki/awesome-graph-classification?style=social)
