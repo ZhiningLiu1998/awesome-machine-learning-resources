@@ -25,12 +25,22 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Limmen",
+      "name": "Kim Hammar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8254791?v=4",
+      "profile": "http://limmen.dev",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "awesome-awesome-machine-learning",
+  "projectName": "awesome-machine-learning-resources",
   "projectOwner": "ZhiningLiu1998",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
