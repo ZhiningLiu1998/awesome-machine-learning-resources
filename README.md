@@ -286,6 +286,8 @@ Machine Learning Paradigm
     - This is a list of various books, courses and other resources for robotics
   - [**[List] Awesome RL for Natural Language Processing (NLP)**](https://github.com/adityathakker/awesome-rl-nlp) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/adityathakker/awesome-rl-nlp?style=social)
     - Curated List of Reinforcement Learning Resources for Natural Language Processing.
+  - [**[List] Awesome RL for Cybersecurity**](https://github.com/Limmen/awesome-rl-for-cybersecurity) ![](https://img.shields.io/github/stars/limmen/awesome-rl-for-cybersecurity?style=social)
+    - Curated list of resources dedicated to reinforcement learning applied to cyber security.
 
 - *Practice*
   - [**[Library] gym**](https://github.com/openai/gym) ![](https://img.shields.io/github/stars/openai/gym?style=social)
