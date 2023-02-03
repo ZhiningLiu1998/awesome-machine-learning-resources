@@ -54,6 +54,7 @@
 <font color='red'>What's new: </font>
 </h3>
 
+- [01/2023] Add [Fair Graph Learning](https://github.com/EdisonLeeeee/Awesome-Fair-Graph-Learning) in [Graph Learning](#graph-learning).
 - [08/2022] Add Graph for Traffic Benchmark in [Graph Learning](#graph-learning).
 - [04/2022] Update section [Graph Learning](#graph-learning).
 - [12/2021] Update section [Clustering](#clustering).
@@ -116,28 +117,28 @@
     - [Anomaly Detection](#anomaly-detection)
     - [Clustering](#clustering)
     - [Dimensionality Reduction (Feature Selection/Extraction)](#dimensionality-reduction-feature-selectionextraction)
-- [Machine Learning Task & Application](#machine-learning-task--application)
+- [Machine Learning Task \& Application](#machine-learning-task--application)
     - [Computer Vision (CV)](#computer-vision-cv)
     - [Natural Language Processing (NLP)](#natural-language-processing-nlp)
-    - [Multi-modal & Cross-modal Learning](#multi-modal--cross-modal-learning)
+    - [Multi-modal \& Cross-modal Learning](#multi-modal--cross-modal-learning)
     - [Graph Learning](#graph-learning)
     - [Knowledge Graph](#knowledge-graph)
     - [Time-series/Stream Learning](#time-seriesstream-learning)
     - [Recommender Systems](#recommender-systems)
     - [Information Retrieval](#information-retrieval)
-    - [Gaming & Searching](#gaming--searching)
+    - [Gaming \& Searching](#gaming--searching)
 - [Machine Learning Model](#machine-learning-model)
-    - [Pretrained & Foundation Model](#pretrained--foundation-model)
+    - [Pretrained \& Foundation Model](#pretrained--foundation-model)
       - [in NLP (BERT, RoBERTa, GPT, etc.)](#in-nlp-bert-roberta-gpt-etc)
       - [in CV (Visual Transformers, etc.)](#in-cv-visual-transformers-etc)
       - [in other topics](#in-other-topics)
     - [Convolutional Neural Network (CNN)](#convolutional-neural-network-cnn)
     - [Recurrent Neural Network (RNN, LSTM, GRU, etc.)](#recurrent-neural-network-rnn-lstm-gru-etc)
     - [Graph Neural Network (GNN, GCN, GAT, etc.)](#graph-neural-network-gnn-gcn-gat-etc)
-    - [Generative Model & Generative Adversarial Network (GAN)](#generative-model--generative-adversarial-network-gan)
+    - [Generative Model \& Generative Adversarial Network (GAN)](#generative-model--generative-adversarial-network-gan)
     - [Variational Autoencoder](#variational-autoencoder)
-    - [Tree-based & Ensemble Model](#tree-based--ensemble-model)
-- [Machine Learning Interpretability & Fairness & Ethics](#machine-learning-interpretability--fairness--ethics)
+    - [Tree-based \& Ensemble Model](#tree-based--ensemble-model)
+- [Machine Learning Interpretability \& Fairness \& Ethics](#machine-learning-interpretability--fairness--ethics)
     - [Interpretability in AI](#interpretability-in-ai)
     - [Fairness in AI](#fairness-in-ai)
     - [Ethics in AI](#ethics-in-ai)
@@ -147,10 +148,10 @@
     - [Software Engineering (MLonCode)](#software-engineering-mloncode)
     - [Cyber Security](#cyber-security)
     - [Quantum Computing](#quantum-computing)
-    - [Medical & Healthcare](#medical--healthcare)
+    - [Medical \& Healthcare](#medical--healthcare)
     - [Bioinformatics](#bioinformatics)
-    - [Biology & Chemistry](#biology--chemistry)
-    - [Finance & Trading](#finance--trading)
+    - [Biology \& Chemistry](#biology--chemistry)
+    - [Finance \& Trading](#finance--trading)
     - [Business](#business)
     - [Law](#law)
 - [Machine Learning Datasets](#machine-learning-datasets)
@@ -826,6 +827,8 @@ Machine Learning Task & Application
     - GNN in Recommendation.
   - [**[List] Awesome GNNs on Large-scale Graphs**](https://github.com/Oceanusity/awesome-gnns-on-large-scale-graphs) ![](https://img.shields.io/github/stars/Oceanusity/awesome-gnns-on-large-scale-graphs?style=social)
     - Large-scale Graph Datasets/Networks.
+  - [**[List] Awesome Fair Graph Learning**](https://github.com/EdisonLeeeee/Awesome-Fair-Graph-Learning) ![](https://img.shields.io/github/stars/EdisonLeeeee/Awesome-Fair-Graph-Learning?style=social)
+    - Paper Lists for Fair Graph Learning (FairGL).
   - [**[List] Must-read papers on NRL/NE.**](https://github.com/thunlp/NRLPapers) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/thunlp/NRLPapers?style=social)
     - NRL: network representation learning. NE: network embedding.
   - [**[List] Representation Learning on Heterogeneous Graph**](https://github.com/Jhy1993/Representation-Learning-on-Heterogeneous-Graph) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/Jhy1993/Representation-Learning-on-Heterogeneous-Graph?style=social)
