@@ -54,7 +54,7 @@
 <font color='red'>What's new: </font>
 </h3>
 
-- [01/2023] Add [Fair Graph Learning](https://github.com/EdisonLeeeee/Awesome-Fair-Graph-Learning) in [Graph Learning](#graph-learning).
+- [01/2023] Add [Fair Graph Learning](https://github.com/EdisonLeeeee/Awesome-Fair-Graph-Learning) in [Graph Learning](#graph-learning), update section [Time-series/Stream Learning](#time-seriesstream-learning).
 - [08/2022] Add Graph for Traffic Benchmark in [Graph Learning](#graph-learning).
 - [04/2022] Update section [Graph Learning](#graph-learning).
 - [12/2021] Update section [Clustering](#clustering).
@@ -866,6 +866,8 @@ Machine Learning Task & Application
 - *General*
   - [**[List] awesome-time-series**](https://github.com/cuge1995/awesome-time-series) ![](https://img.shields.io/github/stars/cuge1995/awesome-time-series?style=social)
     - List of state of the art papers, code, and other resources focus on time series forecasting.
+  - [**[List] Awesome-time-series**](https://github.com/cure-lab/Awesome-time-series) ![](https://img.shields.io/github/stars/cure-lab/Awesome-time-series?style=social)
+    - A comprehensive survey on the time series domains。
   - [**[List] Awesome Time Series Papers (English&Chinese)**](https://github.com/bighuang624/Time-Series-Papers) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/bighuang624/Time-Series-Papers?style=social)
     - List of awesome papers from various research fields in time series analysis.
 
