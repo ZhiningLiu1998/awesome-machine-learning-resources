@@ -581,7 +581,8 @@ Machine Learning Paradigm
       - A framework for implementing federated learning (TensorFlow).
   - [**[Code] Federated-Learning-PyTorch**](https://github.com/AshwinRJ/Federated-Learning-PyTorch) ![](https://img.shields.io/github/stars/AshwinRJ/Federated-Learning-PyTorch?style=social)
       - Implementation of the vanilla federated learning paper.
-
+  - [**[Library] Flower**](https://github.com/adap/flower) ![](https://img.shields.io/github/stars/adap/flower?style=social)
+      - A unified approach to federated learning, analytics, and evaluation. Federate any workload, any ML framework, and any programming language.
 #### Anomaly Detection
 
 - *General*
