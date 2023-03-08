@@ -583,6 +583,7 @@ Machine Learning Paradigm
       - Implementation of the vanilla federated learning paper.
   - [**[Library] Flower**](https://github.com/adap/flower) ![](https://img.shields.io/github/stars/adap/flower?style=social)
       - A unified approach to federated learning, analytics, and evaluation. Federate any workload, any ML framework, and any programming language.
+
 #### Anomaly Detection
 
 - *General*
