@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/github/license/ZhiningLiu1998/awesome-awesome-machine-learning">
   </a>
   <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning#contributors-"><img src="https://img.shields.io/badge/all_contributors-3-orange.svg"></a>
+<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning#contributors-"><img src="https://img.shields.io/badge/all_contributors-4-orange.svg"></a>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
   <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/graphs/traffic">
     <img src="https://visitor-badge.glitch.me/badge?page_id=ZhiningLiu1998.awesome-awesome-machine-learning&left_text=Hi!%20visitors">
@@ -1323,9 +1323,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="http://zhiningliu.com"><img src="https://avatars.githubusercontent.com/u/26108487?v=4?s=100" width="100px;" alt="Zhining Liu"/><br /><sub><b>Zhining Liu</b></sub></a><br /><a href="https://github.com/ZhiningLiu1998/awesome-machine-learning-resources/commits?author=ZhiningLiu1998" title="Code">💻</a> <a href="#ideas-ZhiningLiu1998" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-ZhiningLiu1998" title="Maintenance">🚧</a></td>
-      <td align="center"><a href="http://yueliu1999.github.io"><img src="https://avatars.githubusercontent.com/u/41297969?v=4?s=100" width="100px;" alt="yueliu1999"/><br /><sub><b>yueliu1999</b></sub></a><br /><a href="#content-yueliu1999" title="Content">🖋</a></td>
-      <td align="center"><a href="http://limmen.dev"><img src="https://avatars.githubusercontent.com/u/8254791?v=4?s=100" width="100px;" alt="Kim Hammar"/><br /><sub><b>Kim Hammar</b></sub></a><br /><a href="#content-Limmen" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://zhiningliu.com"><img src="https://avatars.githubusercontent.com/u/26108487?v=4?s=100" width="100px;" alt="Zhining Liu"/><br /><sub><b>Zhining Liu</b></sub></a><br /><a href="https://github.com/ZhiningLiu1998/awesome-machine-learning-resources/commits?author=ZhiningLiu1998" title="Code">💻</a> <a href="#ideas-ZhiningLiu1998" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-ZhiningLiu1998" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://yueliu1999.github.io"><img src="https://avatars.githubusercontent.com/u/41297969?v=4?s=100" width="100px;" alt="yueliu1999"/><br /><sub><b>yueliu1999</b></sub></a><br /><a href="#content-yueliu1999" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://limmen.dev"><img src="https://avatars.githubusercontent.com/u/8254791?v=4?s=100" width="100px;" alt="Kim Hammar"/><br /><sub><b>Kim Hammar</b></sub></a><br /><a href="#content-Limmen" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/adam-narozniak"><img src="https://avatars.githubusercontent.com/u/51029327?v=4?s=100" width="100px;" alt="Adam Narozniak"/><br /><sub><b>Adam Narozniak</b></sub></a><br /><a href="#content-adam-narozniak" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
