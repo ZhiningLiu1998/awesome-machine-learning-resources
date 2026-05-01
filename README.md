@@ -1250,6 +1250,8 @@ Interdisciplinary: Machine Learning + X
   - Machine Learning for finance and investment introduction.
 - [**Machine Learning for Finance**](https://github.com/PacktPublishing/Machine-Learning-for-Finance) ![](https://img.shields.io/github/stars/PacktPublishing/Machine-Learning-for-Finance?style=social)
   - Code repository for Machine Learning for Finance (book). -->
+- [**[Library, Practice] DeepAlpha**](https://github.com/stefanoviana/deepalpha) ![](https://img.shields.io/github/stars/stefanoviana/deepalpha?style=social)
+  - AI crypto trading bot with ML ensemble (XGBoost + Transformers + GNN) + pump scanner. 4 bot types (AI, Grid, DCA, Pump), 12 exchanges, Telegram bot. Open source.
 
 #### Business
 
