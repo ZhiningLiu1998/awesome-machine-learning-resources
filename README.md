@@ -175,6 +175,7 @@ General Machine Learning
 
 - *Research*
   - [**[List] Papers-Literature-ML-DL-RL-AI**](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI) ![](https://img.shields.io/github/stars/tirthajyoti/Papers-Literature-ML-DL-RL-AI?style=social)
+  - [**[List] awesome-jev**](https://github.com/Promethe-us/awesome-jev) - A source-backed Jev / System One knowledge map spanning projects, papers, evaluation boundaries, robotics, and social discovery.
     - Impactful and widely cited papers and literature on ML/DL/RL/AI.
   - [**[List] Awesome Deep Learning**](https://github.com/ChristosChristofidis/awesome-deep-learning) **[⚠️Inactive]** ![](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=social)
     - A curated list of awesome deep learning books, courses, videos, lectures, tutorials, and more.
