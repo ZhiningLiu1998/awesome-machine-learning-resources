@@ -1251,6 +1251,9 @@ Interdisciplinary: Machine Learning + X
 - [**Machine Learning for Finance**](https://github.com/PacktPublishing/Machine-Learning-for-Finance) ![](https://img.shields.io/github/stars/PacktPublishing/Machine-Learning-for-Finance?style=social)
   - Code repository for Machine Learning for Finance (book). -->
 
+- [**[List] AML & Sanctions ML**](https://github.com/RishabhPande/aml-sanctions-ml)
+  - Curated AML and sanctions machine-learning references, with peer-reviewed papers, marked preprints, patent publication types, datasets, tools and dated regulatory news.
+
 #### Business
 
 - [**[List, Practice] business-machine-learning**](https://github.com/firmai/business-machine-learning) ![](https://img.shields.io/github/stars/firmai/business-machine-learning?style=social)
